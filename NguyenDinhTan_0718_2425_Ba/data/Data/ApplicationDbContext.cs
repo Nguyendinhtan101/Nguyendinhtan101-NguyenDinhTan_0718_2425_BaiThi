@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace NguyenVanTrien_0656_2425_BaiThi.Data
+namespace NguyenDinhTan_0718_2425_BaiThi.Data
 {
 public class ApplicationDbContext : DbContext
 {
